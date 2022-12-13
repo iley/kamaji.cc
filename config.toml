@@ -14,8 +14,7 @@ enableMissingTranslationPlaceholders = false
 
 [params]
 
-    # Source Code repository section
-    description = "Kamaji source code"
+    description = "Kamaji Quiz Game System"
     github_repository = "https://github.com/iley/kamaji"
     version = ""
 
@@ -68,7 +67,6 @@ enableMissingTranslationPlaceholders = false
         url = "/"
         weight = 1
         identifier = 'home'
-        pre = "<i class='fa fa-heart'></i>&nbsp;"
 
 # Markup configure section
 # See https://gohugo.io/getting-started/configuration-markup/
