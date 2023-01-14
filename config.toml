@@ -14,7 +14,7 @@ enableMissingTranslationPlaceholders = false
 
 [params]
 
-    description = "Kamaji Quiz Game System"
+    description = "Quiz Game System"
     github_repository = "https://github.com/iley/kamaji"
     version = ""
 
