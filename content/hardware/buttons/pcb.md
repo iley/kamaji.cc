@@ -1,5 +1,5 @@
 ---
-title: "Ordering PCBs"
+title: "Order PCBs"
 date: 2023-01-14T14:26:54Z
 weight: 2
 ---
