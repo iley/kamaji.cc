@@ -1,30 +1,12 @@
 ---
-date: 2017-10-19T15:26:15Z
-lastmod: 2019-10-26T15:26:15Z
-publishdate: 2018-11-23T15:26:15Z
-
-title: Home title
-description: Text about this post
-images:
-- images/pexels-photo-196666.jpeg
+title: "Welcome"
+date: 2023-01-14T14:12:26Z
 ---
 
-# Hugo Techdoc Theme
+# Kamaji Game System
 
-## The Techdoc is a Hugo Theme for technical documentation.
+This is the home page for Kamaji game system, a suite of hardware and software for playing various quiz games with your friends.
 
-## Features
+You can find the [source code and design files on Github](https://github.com/iley/kamaji).
 
-* Modern, Simple layout
-* Responsive web design
-* Documentation menu (Select [Menu style](getting-started/screenshot/#menu-style))
-* [Table Of Contents](sample/table-of-contents/) for the page (selective)
-* [Theme color](getting-started/screenshot/#theme-color)
-* [Edit link](getting-started/screenshot/#edit-link) to documentation repository
-* [Custom Shortcodes](sample/custom-shortcodes/)
-  * Code highlight with clipboard
-  * Alert panel
-  * Button
-* [Search Shortcode](sample/search-shortcode/) powered by [Algolia](https://www.algolia.com/)
-* Open Graph
-* Analytics with Google Analytics, Google Tag Manager
+If you'd like to build your own copy of the hardware, please see [assembly instructions](assembly).
