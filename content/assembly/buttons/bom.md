@@ -14,6 +14,7 @@ Everything (except the custom PCB) can be found on Aliexpress or similar website
 | Cherry MX switch     | 1        |              |       |
 | 2×3×4 square LED     | 1        |              |       |
 | M2.5 6mm bolt        | 1        |              |       |
+| M2.5 threaded insert | 1        |              |       |
 | RJ10 (4P4C) socket   | 1        |              |       |
 
 For information on how to get the custom circuitboards manufactured, see [the next section](pcb).
