@@ -66,7 +66,17 @@ enableMissingTranslationPlaceholders = false
         name = "Home"
         url = "/"
         weight = 1
-        identifier = 'home'
+        identifier = "home"
+    [[menu.main]]
+        name = "Hardware"
+        url = "/hardware"
+        weight = 2
+        identifier = "hardware"
+    [[menu.main]]
+        name = "Contact"
+        url = "/contact"
+        weight = 3
+        identifier = "contact"
 
 # Markup configure section
 # See https://gohugo.io/getting-started/configuration-markup/

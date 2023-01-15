@@ -1,6 +1,7 @@
 ---
 title: "Welcome"
 date: 2023-01-14T14:12:26Z
+lastmod: 2023-01-15
 ---
 
 # Kamaji Game System
