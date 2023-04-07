@@ -1,7 +1,7 @@
 ---
-title: "Assemble"
-date: 2023-01-14T17:43:36Z
-weight: 5
+title: "Bill of materials"
+date: 2023-04-07
+weight: 1
 ---
 
 __Work in progress. Please check back later.__

@@ -32,9 +32,9 @@ _TODO: add photos_
 
 ## LED
 
-The LEDs in the buttons are mounted into the slot of the keyboard switch. We recommend using 2×3×4 square LEDs, as they fit well. Other LEDs with the same lead spacing might work too. For more information see [this thread on Geekhack](https://geekhack.org/index.php?topic=62943.0).
+<img src="/images/button-parts-led.jpg">
 
-_TODO: add photos_
+The LEDs in the buttons are mounted into the slot of the keyboard switch. We recommend using 2×3×4 square LEDs, as they fit well. Other LEDs with the same lead spacing might work too. For more information see [this thread on Geekhack](https://geekhack.org/index.php?topic=62943.0).
 
 ## Bolts and inserts
 

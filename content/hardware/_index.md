@@ -6,6 +6,9 @@ weight: 1
 
 Here you'll find instructions on how to build your own Kamaji system.
 
+__This is work in progress. Expect the instructions to be extended and updated in future.__
+
 Following instructions are available at this time:
  * [Headless Kamaji](headless)
+ * [Classic Kamaji](classic)
  * [Kamaji Buttons](buttons)
