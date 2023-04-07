@@ -20,7 +20,7 @@ Everything (except the custom PCB) can be found on Aliexpress or similar website
 
 ## PCB
 
-For information on how to get the custom circuitboards manufactured, see [the next section](/buttons/pcb).
+For information on how to get the custom circuitboards manufactured, see [next step](/hardware/buttons/pcb).
 
 ## Switch
 
