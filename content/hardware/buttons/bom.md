@@ -6,7 +6,7 @@ weight: 1
 
 Here's what you'll need to assemble your own Kamaji buttons. The quantites shown are per single button. Multiply that by the number you need and consder ordering some spares.
 
-Everything (except the custom PCB) can be found on Aliexpress or similar websites for cheap.
+Everything (except the custom PCB) can be found on Aliexpress or other marketplaces for cheap.
 
 | Item                                       | How many | Search query              |
 |--------------------------------------------|----------|---------------------------|

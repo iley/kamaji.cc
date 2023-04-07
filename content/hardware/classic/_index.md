@@ -1,7 +1,7 @@
 ---
 title: "Classic Kamaji"
 date: 2023-04-07
-weight: 1
+weight: 3
 ---
 
 Here you'll find an instruction for building a "Classic" Kamaji system.

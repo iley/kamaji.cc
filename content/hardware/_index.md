@@ -1,6 +1,7 @@
 ---
 title: "Building the hardware"
 date: 2023-01-14T14:14:14Z
+lastmod: 2023-04-07
 weight: 1
 ---
 
