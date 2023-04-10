@@ -20,13 +20,13 @@ Key features:
 To use a Kamaji Classic you will need:
 
  * 2-5 [Kamaji buttons](/hardware/buttons)
- * USB power supply or powerbank (see Known Bugs below)
+ * USB power supply or powerbank (see [Known bugs](#known_bugs) below)
  * USB-B cable
 
 
-Note that Kamaji Classic uses a USB-B socket (not to be confused with Mini-B and Micro-B) for power which is relatively rare nowadays.
+Note that Kamaji Classic uses a USB-B socket (not to be confused with Mini-B and Micro-B) for power which are uncommon nowadays.
 
 
-Known Bugs:
+<a name="known_bugs"></a>Known bugs:
 
  * Some powerbanks cannot reliably power Kamaji Classic. The system power consumption is so low that some powerbanks don't recognize it as a connected device and shut off the power after a few minutes.

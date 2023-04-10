@@ -13,22 +13,27 @@ Everything (except the custom PCB) can be found on Aliexpress or other marketpla
 | [Custom PCB](#pcb)                         | 1        | N/A                       |
 | [Cherry MX switch](#switch)                | 1        | cherry mx keyboard switch |
 | [2×3×4 square LED](#led)                   | 1        | 2x3x4 square LED          |
-| [M2.5 6mm bolt](#bolts-and-inserts)        | 1        | M2.5 bolt                 |
+| [M2.5 6mm bolt](#bolts-and-inserts)        | 1        | M2.5 bolt 6mm             |
 | [M2.5 threaded insert](#bolts-and-inserts) | 1        | M2.5 threaded insert      |
 | [RJ10 (4P4C) socket](#rj10-socket)         | 1        | RJ10 socket               |
+| [Translucent keycap](#keycap)              | 1        | cherry mx keycap clear    |
 | [Telephone cable](#cable)                  | 1        | telephone cable 4p4c      |
 
 ## PCB
 
-For information on how to get the custom circuitboards manufactured, see [next step](/hardware/buttons/pcb).
+<img src="/images/button-pcb.jpg">
+
+For information on how to get the printed circuitboards manufactured, see [next step](/hardware/buttons/pcb).
 
 ## Switch
 
+<img src="/images/switch.jpg">
+
 The Kamaji button uses standard mechanical keyboard switches compatible with Cherry MX. You can buy original Cherry switches of your choice (e.g. blue, brown, black, red), or go for a compatible alternative from Kailh or Gateron.
 
-We would not recommend saving pennies by going with no-name clone switches. The ones from respectable brands are cheap enough, and you only need one per player button.
+One thing to check when ordering switches is __whether they have a slot for an LED__. The original Cherry switches do, but some clones might not have them.
 
-_TODO: add photos_
+We would not recommend saving pennies by going with no-name clone switches. The ones from respectable brands are cheap enough, and you only need one per player button.
 
 ## LED
 
@@ -38,17 +43,33 @@ The LEDs in the buttons are mounted into the slot of the keyboard switch. We rec
 
 ## Bolts and inserts
 
-_TODO: add explanation_
+<img src="/images/bolt-and-insert.jpg">
 
-_TODO: add photos_
+The enclosure parts and the PCB are held together with an M2.5 bolt and a threaded insert.
+
+The bolt is a standard 6mm M2.5 bolt with a round head.
+
+We used [brass threaded inserts from CNC Kitchen](https://cnckitchen.store/products/gewindeeinsatz-threaded-insert-m2-5-standard-100-stk-pcs). Other brands should work fine too, as long as they have similar dimensions (outer diameter 4.6mm, length 4mm). When ordering make sure to __check the outer diameter__ of the inserts as it may vary significantly.
 
 ## RJ10 Socket
 
-_TODO: add explanation_
+<img src="/images/rj10-sockets.jpg">
 
-_TODO: add photos_
+Kamaji uses RJ-10 (4P4C) sockets that are commonly used for landline phones.
+
+There are two things to look up for when ordering sockets:
+ * Make sure you're ordering 4-pin sockets, not 6-pin.
+ * On Aliexpress and similar marketplaces there are two common types of sockets, one is narrower and the other is wider. Look for the __narrow__ ones (~12mm wide).
+
+## Keycap
+
+<img src="/images/clear-keycap.jpg">
+
+You'll need Cherry MX compatible keycaps. The keycaps should be translucent/clear so that it's easier to see when the LED below is lit.
 
 ## Cable
+
+<img src="/images/rj10-cable.jpg">
 
 Now, with cables you have two options:
 
@@ -59,8 +80,12 @@ The former is simpler, the latter is cheaper and more flexible.
 
 If you'd like to buy pre-made cables, search for 4P4C telephone cables on Aliexpress or in local hardware stores.
 
-For making your own cables you'll need a crimping tool. Make sure it supports 4P4C plugs, not all tools do. Then buy flat 4-wire telephone cable and 4P4C plugs and crimp cables of the desired length.
+For making your own cables you'll need a crimping tool. Make sure it supports 4P4C plugs, not all tools do. Buy flat 4-wire telephone cable and 4P4C plugs and crimp cables of the desired length.
 
-__TODO: Insert a photo of crimping tool, cable, and plugs.__
+<img src="/images/crimper.jpg">
 
-An added benefit of having a crimping tool and plugs is that you can easily repair broken cables by trimming and re-crimping them.
+An added benefit of having a crimping tool and plugs is that you can repair broken cables by trimming and re-crimping them.
+
+## Next
+
+While you're waiting for all parts to arrive, go ahead and [order the PCBs](/hardware/buttons/pcb).

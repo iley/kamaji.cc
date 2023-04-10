@@ -9,6 +9,8 @@ Here you'll find an instruction for assembling a player button for Kamaji system
 
 All Kamaji systems use the same connector and pinout for player buttons. Any Kamaji button should be compatible with any system.
 
-The finished product should look like this:
+The finished product looks like this:
 
 <img src="/images/button-finished.jpg">
+
+Start by [ordering the required parts](/hardware/buttons/bom).

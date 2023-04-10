@@ -17,3 +17,5 @@ Here's what the order page might look like:
 <img src="/images/buttons-pcb-order.png">
 
 Order and wait!
+
+Once the PCBs arrive, proceed to [soldering](/hardware/buttons/solder).
