@@ -1,6 +1,7 @@
 ---
-title: "Tools"
+title: "Tools and consumables"
 date: 2023-04-07
+lastmod: 2023-05-06
 weight: 1
 ---
 
@@ -10,3 +11,10 @@ Here are the tools you'll need for building the Kamaji hardware:
  * Side-cutters for cutting off leads of resistors and other components.
  * Philips screwdriver.
  * 3D-printer. Alternatively you can order 3D-printed parts from an on-demand printing service.
+
+You will also need some consumables:
+
+ * Solder. We typically use the classic 60/40 leaded solder in 0.5mm thickness with flux core. If you want a lead-free alternative, ISO-Core "Clear" works fine.
+ * Flux. Even when you use solder with a flux core, additional flux will be needed at times.
+ * Isopropyl alcohol or some other cleaning agent for getting the flux residue off the PCBs after soldering.
+ * 3D-printer filament. We typically use PETG, but PLA also works just fine.
