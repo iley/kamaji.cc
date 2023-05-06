@@ -11,6 +11,7 @@ Here are the tools you'll need for building the Kamaji hardware:
  * Side-cutters for cutting off leads of resistors and other components.
  * Philips screwdriver.
  * 3D-printer. Alternatively you can order 3D-printed parts from an on-demand printing service.
+ * (optional) [soldering tips for threaded inserts](https://cnckitchen.store/products/einschmelzhilfen-soldering-tips-m2-m2-5-m3-m4-m5-m6-1-4-m8-100-lead-and-cadmium-free). These are convenient, but you can also use a regular conical soldering tip for the treaded inserts.
 
 You will also need some consumables:
 

@@ -1,5 +1,5 @@
 ---
-title: "3D-print Enclosure"
+title: "3D-print enclosure"
 date: 2023-01-14T17:43:26Z
 lastmod: 2023-05-06
 weight: 4
