@@ -22,3 +22,5 @@ Also see the [general information on soldering](/hardware/soldering).
 The end result should look like this:
 
 <img src="/images/button-soldering-done.jpg">
+
+Next up you'll need to [print an enclosure](/hardware/buttons/3d-print-enclosure/).

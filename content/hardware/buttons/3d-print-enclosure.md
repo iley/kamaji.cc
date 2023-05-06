@@ -5,7 +5,7 @@ lastmod: 2023-05-06
 weight: 4
 ---
 
-For this part you will need access to an FDM 3D-printer. If you don't have one, you can find an on-demand print service online.
+For this part you will need access to an FDM 3D-printer. If you don't have one, you can find an on-demand print service online. A resin printer would also do the job but we have no experience with those.
 
 You will also need filament to print with. We use PETG because it's a little more durable, but PLA would work too.
 
@@ -57,3 +57,5 @@ It is also worth increasing the number of perimeters to 3 so that the vertical w
 Before printing, double check that you're using the correct printer profile and filament settings (especially the print temperature).
 
 Once printing is done, you'll need to remove the supports. They should come off easily. Poking a screwdriver through the hole from the other side usually does the trick.
+
+Proceed to [assembly](/hardware/buttons/assemble).
