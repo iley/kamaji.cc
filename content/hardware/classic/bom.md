@@ -22,7 +22,7 @@ Everything (except the custom PCB) can be found on Aliexpress or other marketpla
 | USB-B socket                                 | 1        |
 | 0.1uF through-hole ceramic capacitor         | 3        |
 | 1K through-hole resistor                     | 6        |
-| 10K through-hold resistor                    | 2        |
+| 10K through-hole resistor                    | 2        |
 | 10K potentiometer                            | 1        |
 | 12mm pushbutton with cap                     | 3        |
 
