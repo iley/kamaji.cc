@@ -17,7 +17,7 @@ Key features:
  * Built-in buzzer
 
 
-To use a Kamaji Classic you will need:
+To use a Kamaji Classic you will additionally need:
 
  * 2-5 [Kamaji buttons](/hardware/buttons)
  * USB power supply or powerbank (see [Known bugs](#known_bugs) below)

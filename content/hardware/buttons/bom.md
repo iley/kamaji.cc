@@ -23,7 +23,7 @@ Everything (except the custom PCB) can be found on Aliexpress or other marketpla
 
 <img src="/images/button-pcb.jpg">
 
-For information on how to get the printed circuitboards manufactured, see [next step](/hardware/buttons/pcb).
+For information on how to get the printed circuit boards manufactured, see [next step](/hardware/buttons/pcb).
 
 ## Switch
 

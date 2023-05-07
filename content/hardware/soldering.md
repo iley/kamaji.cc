@@ -9,7 +9,7 @@ If you never soldered before, please check out an online tutorial or ask somebod
 Some general tips:
 
  * Use more flux!
- * Don't skip on cleaning the circuitboard after solering. The flux might be corrosive and/or conductive. Isopropyl alcohol would do the trick.
+ * Don't skip on cleaning the circuit board after soldering. The flux might be corrosive and/or conductive. Isopropyl alcohol would do the trick.
 
 Here's a quick guide by Mitch Altman and Andie Nordgren (taken from [PEN wiki](http://eburn.scripts.mit.edu/pened/doku.php/background/how.to.guides/soldering)):
 
