@@ -16,6 +16,9 @@ Key features:
  * USB-A socket for connecting a signal lamp
  * Built-in buzzer
 
+### Documentation
+
+[Schematic (PDF)](/files/kamaji_classic_v1_schematic.pdf)
 
 To use a Kamaji Classic you will additionally need:
 

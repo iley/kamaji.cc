@@ -19,7 +19,7 @@ Everything except the custom PCB can be bought from marketplaces (e.g. Aliexpres
 | 12mm piezo buzzer                                            | 1        |
 | RJ10 socket                                                  | 5        |
 | BS-170 MOSFET transistor                                     | 1        |
-| 2x5 right-angle IDC connector female                         | 1        |
+| 2x5 right-angle IDC connector (female)                       | 1        |
 | USB-A socket                                                 | 1        |
 | USB-B socket                                                 | 1        |
 | 0.1uF through-hole ceramic capacitor                         | 3        |
