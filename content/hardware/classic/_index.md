@@ -4,7 +4,7 @@ date: 2023-04-07
 weight: 3
 ---
 
-Here you'll find an instruction for building a "Classic" Kamaji system.
+Here you'll find instructions for building a "Classic" Kamaji system.
 
 <img src="/images/kamaji-classic.jpg">
 
@@ -27,7 +27,7 @@ To use a Kamaji Classic you will additionally need:
  * USB-B cable
 
 
-Note that Kamaji Classic uses a USB-B socket (not to be confused with Mini-B and Micro-B) for power which are uncommon nowadays.
+Note that Kamaji Classic uses a USB-B socket (not to be confused with Mini-B and Micro-B) for power which is uncommon nowadays.
 
 <img src="/images/usb-b-cable.jpeg">
 

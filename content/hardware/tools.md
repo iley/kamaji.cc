@@ -13,7 +13,7 @@ Here are the tools you'll need for building the Kamaji hardware:
  * Philips screwdriver.
  * Tweezers.
  * (for [Classic](/hardware/classic) only) AVR programmer device such as [USBasp](https://www.fischl.de/usbasp/) or one of its many clones available on Aliexpress, Ebay, and Amazon. Make sure it comes with a 10-pin cable. Alternatively you can use a universal programmer such as [TL866](http://www.autoelectric.cn/en/tl866_main.html).
- * (optional) [soldering tips for threaded inserts](https://cnckitchen.store/products/einschmelzhilfen-soldering-tips-m2-m2-5-m3-m4-m5-m6-1-4-m8-100-lead-and-cadmium-free). These are convenient, but you can also use a regular conical soldering tip for the treaded inserts.
+ * (optional) [soldering tips for threaded inserts](https://cnckitchen.store/products/einschmelzhilfen-soldering-tips-m2-m2-5-m3-m4-m5-m6-1-4-m8-100-lead-and-cadmium-free). These are convenient, but you can also use a regular conical soldering tip for the threaded inserts.
 
 You will also need some consumables:
 

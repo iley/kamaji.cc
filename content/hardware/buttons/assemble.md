@@ -13,7 +13,7 @@ Use a soldering iron. If you have the [special soldering tips](https://cnckitche
 
 Heat the soldering iron to a temperature about 20° above the printing temperature of your filament. For example, we use 250° for PETG.
 
-Place the top part of the enclosure with the hole facing up. Hold the threaded insert against the hole with tweezers and carefully push it in with the soldering iron until it's flush with the surface. Do not apply to much force.
+Place the top part of the enclosure with the hole facing up. Hold the threaded insert against the hole with tweezers and carefully push it in with the soldering iron until it's flush with the surface. Do not apply too much force.
 
 <img src="/images/button_threaded_insert.jpeg">
 

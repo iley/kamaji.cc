@@ -5,7 +5,7 @@ lastmod: 2023-04-07
 weight: 5
 ---
 
-Here you'll find an instruction for assembling a player button for Kamaji systems.
+Here you'll find instructions for assembling a player button for Kamaji systems.
 
 All Kamaji systems use the same connector and pinout for player buttons. Any Kamaji button should be compatible with any system.
 
