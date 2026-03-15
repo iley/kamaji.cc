@@ -101,11 +101,9 @@ There is a potentiometer on the back of the LCD module that can be adjusted thro
 
 #### USB-C to USB-C cable doesn't work with Arduino Pro Micro clones
 
+(This is relevant for the Headless only).
+
 Some cheap Arduino Pro Micro clones with USB-C ports are missing the CC pull-up resistors required by the USB-C specification. They will only work with USB-C to USB-A cables. As a workaround, use a USB-A adapter. When ordering new boards, look for models that correctly implement USB-C.
-
-#### Button switches break over time
-
-Mechanical push-button switches can fail from use or even from sitting in storage. If a button stops registering but shorting the contacts directly still works, the switch itself is dead and needs to be replaced. Keep spare switches on hand.
 
 ### What does the name Kamaji mean?
 
