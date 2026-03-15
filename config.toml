@@ -73,9 +73,14 @@ enableMissingTranslationPlaceholders = false
         weight = 2
         identifier = "hardware"
     [[menu.main]]
+        name = "FAQ"
+        url = "/faq"
+        weight = 3
+        identifier = "faq"
+    [[menu.main]]
         name = "Contact"
         url = "/contact"
-        weight = 3
+        weight = 4
         identifier = "contact"
 
 # Markup configure section
